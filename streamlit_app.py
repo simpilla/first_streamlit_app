@@ -1,7 +1,9 @@
 import streamlit
-streamlit.title (' My Parents New Healthy Dinner ') 
+streamlit.title (' My Healthy Meals Plan  ') 
 streamlit.header('Breakfast Menu')
-streamlit.text('Idli ')
-streamlit.text ('Dosa')
-streamlit.text ('Vada' )
-streamlit.text('puri')
+ 
+streamlit.text(' 🥣 Idli ')
+streamlit.text ( '  🥗 Dosa')
+streamlit.text (' 🐔 Vada' )
+streamlit.text(' 🥑 puri')
+stream.text ( ' 🍞 Upma  ')
